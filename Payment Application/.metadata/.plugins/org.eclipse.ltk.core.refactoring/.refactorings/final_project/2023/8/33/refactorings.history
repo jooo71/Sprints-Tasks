@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;final_project/seerver.h&apos; to &apos;server.h&apos;" description="Rename resource &apos;seerver.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="seerver.h" name="server.h" stamp="1692057601555" updateReferences="true"/>
-</session>
